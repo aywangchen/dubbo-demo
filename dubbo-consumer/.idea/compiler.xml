@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dubbo-consumer" target="1.7" />
+      <module name="dubbo-consumer" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
